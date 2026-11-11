@@ -1,0 +1,1 @@
+def registrar_entrada():
